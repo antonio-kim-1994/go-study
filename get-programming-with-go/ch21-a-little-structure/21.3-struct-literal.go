@@ -15,6 +15,7 @@ func main() {
 	// composite literal with values only
 	spirit := location{-14.5684, 175.472636}
 	fmt.Println(spirit) // {-14.5684 175.472636}
+	fmt.Println(spirit.lat)
 
 	// printing keys
 	curiosity := location{-4.5895, 137.4417}

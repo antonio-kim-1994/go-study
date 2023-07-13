@@ -1,1 +1,4 @@
 .idea
+
+# NCP Env
+ncp_with_go/ncp.env
